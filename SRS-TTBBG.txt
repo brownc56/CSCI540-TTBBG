@@ -128,10 +128,24 @@ TO DO: Use the standard IEEE citation guide for this section. An example citatio
 
 TO DO: Provide at least one paragraph describing product perspective. Provide a general diagram that will illustrate how your product interacts with the environment and in what context it is being used.>
 2.2	Product Functionality
-<Summarize the major functions the product must perform or must let the user perform. Details will be provided in Section 3, so only a high level summary is needed here. Organize the functions to make them understandable to any reader of the SRS. A picture of the major groups of related requirements and how they relate, such as a top level data flow diagram or object class diagram, will be effective.
-TO DO:
-1. Provide a bulleted list of all the major functions of the system
-2. (Optional) Provide a Data Flow Diagram of the system to show how these functions relate to each other.>
+The software is simple to use and can replace the human element in most of the advising process.
+•	Create an Account
+When a student or faculty member first accesses TTBBG Advisor, an account is created using a streamlined process of entering the student’s first name, last name, major, username (which is a college email address) and a password.
+•	Log In
+The student/advisor inputs their user name and password and is directed to their home page.
+•	Allow entry of course data
+The user can add any courses taken that are not presently in the database and input the grades received.
+•	Display Courses Completed
+All courses previously entered into the system will be displayed
+•	Provide Suggestions
+The student will be able to click a button which will cause a pop up window to appear displaying the courses they are recommended to take in the next semester.
+•	The user can select an advisor
+A student will choose their advisor from a drop down menu.
+•	Advisor will see a list of their advisees and also be able to search for other student
+•	Advisor will be able to add/delete courses and advisors in the database
+•	Log Out
+After completing the desired tasks, the student logs out of the system with a simple, Log Out button, and all changes to the students account are recorded.
+
 2.3	Users and Characteristics
 This app will have two types of users, Students and Advisors. Both will need to use the app twice a year when the students are preparing to register for the next semester.
 Students will use this app to:
