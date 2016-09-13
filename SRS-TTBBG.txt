@@ -1,23 +1,23 @@
 Software Requirements Specification
 for
 TTBBG Web Advisor
-Version <X.X>
+Version <0.1>
 
 
 
 Prepared by
 Group Name: 2
-Charles Thompson	002539901	cvt@email.uscupstate.edu
-Ken Turner	<student #>	<e-mail>
-Matthew Burt	<student #>	<e-mail>
-Courtney Brown	<student #>	<e-mail>
-Jeff Gilmer	<student #>	<e-mail>
+Charles Thompson	cvt@email.uscupstate.edu
+Ken Turner		turne287@email.uscupstate.edu
+Matthew Burt		burtmr@email.uscupstate.edu
+Courtney Brown		cbrown56@email.uscupstate.edu
+Jeff Gilmer		giler@email.uscupstate.edu
 
-Instructor:	Dr. Schwarts
+Instructor:	Dr. Schwartz
 Course:	CSCI540 Software Engineering
 Lab Section:	N/A
 Teaching Assistant:	N/A
-Date:	 15 Sept 16
+Date:	 15 September 2016
 Contents
 REVISIONS	III
 1	INTRODUCTION	1
