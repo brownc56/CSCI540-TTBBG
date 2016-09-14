@@ -11,3 +11,7 @@ The main design and implementation constraint for this project is that the devel
 
 ###2.6 User Documentation###
 It is our hope that the web application is self-explanatory and will not need supplementary materials of any kind. However, if this were an actual software product, it is likely that some sort of customer service/technical support contact would be established and maintained by the developers, in case a user/customer had any kind of question. 
+
+###3.1 Functional Requirements
+
+These are some functional requirements.
