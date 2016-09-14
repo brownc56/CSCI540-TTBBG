@@ -4,6 +4,7 @@
 
 <html>
 <head>
+    <title>Login for TTBBG Web Advisor</title>
 
     <script type="text/javascript" src="http://code.jquery.com/jquery-3.1.0.js" integrity="sha256-slogkvB1K3VOkzAI8QITxV3VzpOnkeNVsKvtkYLMjfk=" crossorigin="anonymous"></script>
     <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
@@ -22,7 +23,6 @@
             </button>
             <a class="navbar-brand" href="index.html">TTBBG</a>
         </div>
-        <center>
             <div class="navbar-collapse collapse" id="navbar-main">
                 <ul class="nav navbar-nav">
                     <li><a href="roadmap.html">Roadmap</a>
@@ -61,7 +61,6 @@
                     <button type="submit" class="btn btn-default">Sign In</button>
                 </form>
             </div>
-        </center>
     </div>
 </div>
 
