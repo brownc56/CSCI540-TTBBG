@@ -1,4 +1,4 @@
-Software Requirements Specification
+﻿Software Requirements Specification
 for
 TTBBG Web Advisor
 Version <0.1>
@@ -158,14 +158,12 @@ Advisors will use this app to:
 2.	Add or delete courses from the database
 3.	Add or delete advisors from the database
 2.4	Operating Environment
-<Describe the environment in which the software will operate, including the hardware platform, operating system and versions, and any other software components or applications with which it must peacefully coexist. In this part, make sure to include a simple diagram that shows the major components of the overall system, subsystem interconnections, and external interface
-TO DO: As stated above, in at least one paragraph, describe the environment your system will have to operate in. Make sure to include the minimum platform requirements for your system. >
+The operating environment for this project is any web browser that utilizes HTML 5 and CSS 3. As such, most personal computers, tablets, and smartphones will be able to access the platform. Hardware that will be able to access the site will include, but not be limited to, any device running iOS 6.0 or above, Mac OS X or above, Windows 7 or above, Android 4 or above, and using a web browser that properly displays and uses HTML 5 and CSS 3: the latest versions of Google Chrome, Microsoft Edge, Safari, and Opera should all work satisfactorily with this product.
 2.5	Design and Implementation Constraints
-<Describe any items or issues that will limit the options available to the developers. These might include: hardware limitations (timing requirements, memory requirements); interfaces to other applications; specific technologies, tools, and databases to be used; parallel operations; language requirements; communications protocols; security considerations; design conventions or programming standards (for example, if the customer’s organization will be responsible for maintaining the delivered software).
-TO DO: In this section you need to consider all of the information you gathered so far, analyze it and correctly identify at least 5 constraints.>
+The main design and implementation constraint for this project is that the developers are all learning new technologies, including C# and ASP.NET; some of us have never had experience with HTML, CSS, or databases either. We have chosen to go with a web app in order to ensure compatibility across hardware and operating systems, but we do this with the understanding that a web connection is not always available. However, we have not designed the software to work in an offline environment. 
 2.6	User Documentation
-<List the user documentation components (such as user manuals, on-line help, and tutorials) that will be delivered along with the software. Identify any known user documentation delivery formats or standards.
-TO DO: You will not actually develop any user-manuals, but you need to describe what kind of manuals and what kind of help is needed for the software you will be developing. One paragraph should be sufficient for this section.>
+It is our hope that the web application is self-explanatory and will not need supplementary materials of any kind. However, if this were an actual software product, it is likely that some sort of customer service/technical support contact would be established and maintained by the developers, in case a user/customer had any kind of question. 
+
 2.7	Assumptions and Dependencies
 <List any assumed factors (as opposed to known facts) that could affect the requirements stated in the SRS. These could include third-party or commercial components that you plan to use, issues around the development or operating environment, or constraints. The project could be affected if these assumptions are incorrect, are not shared, or change. Also identify any dependencies the project has on external factors, such as software components that you intend to reuse from another project.
 TO DO: Provide a short list of some major assumptions that might significantly affect your design. For example, you can assume that your client will have 1, 2 or at most 50 Automated Banking Machines. Every number has a significant effect on the design of your system. >
